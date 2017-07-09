@@ -1,0 +1,47 @@
+3.import java.util.scanner;
+import java.lang.*;
+import java.io.*;
+{
+class letter
+{
+	public static void main (String[] args) throws java.lang.Exceptionpublic static void main (String[] args) throws java.lang.Exception
+	{
+
+Scanner a= new Scanner(System.in);
+System.out.println("enter a letter);
+char a=s.nextChar();
+switch(a)
+{
+case 'a':
+{
+System.out.println("The letter is a vowel");
+break;
+}
+case 'e':
+{
+System.out.println("The letter is a vowel");
+break;
+}
+case 'i':
+{
+System.out.println("The letter is a vowel");
+break;
+}
+case 'o':
+{
+System.out.println("The letter is a vowel");
+break;
+}
+case 'u':
+{
+System.out.println("The letter is a vowel");
+break;
+}
+default:
+{
+System.out.println("The letter is not a vowel");
+break;
+}
+}
+}
+}
